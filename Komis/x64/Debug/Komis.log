@@ -1,0 +1,15 @@
+﻿  Dodaj_pojazd.cpp
+  Klienci_form.cpp
+  Moje_pojazdy.cpp
+  MyForm.cpp
+  Okno_sprzedaży.cpp
+C:\Users\Bartek\Downloads\Komis\Komis\MyForm.cpp(8,15): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Rejestracja.cpp
+  Sprzedane.cpp
+  Statystyki.cpp
+  StatystykiAdmin.cpp
+  UserLogin.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  Dodaj_pojazd.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Komis.vcxproj -> C:\Users\Bartek\Downloads\Komis\x64\Debug\Komis.exe

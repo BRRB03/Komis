@@ -1,0 +1,9 @@
+\dane\ToyotaCamry.jpg	Toyota	Camry	2018	40000	60000	Aleksander	Kowalski	145876758	63000	Andrzej	2023-06-19	3000
+\dane\HondaAccord.jpg	Honda	Accord	2016	60000	50000	Kuba	Nowak	753951468	54470	Andrzej	2023-06-19	4470
+\dane\MercedesC-class.jpg	Mercedes	C-class	2019	30000	90000	Janusz	Szypko	345346346	103000	Bartek	2023-06-19	13000
+\dane\BMW3 Series.jpg	BMW	3 Series	2017	50000	80000	Aleksander	Kowalski	145876758	86740	Bartek	2023-07-19	6740
+\dane\FordFocus.jpg	Ford	Focus	2019	35000	55000	Bartosz	Ratajczak	12312312	56000	Tomasz	2023-07-19	1000
+\dane\NissanAltima.jpg	Nissan	Altima	2018	45000	55000	Andrzej	Duda	123456789	60500	Tomasz	2023-08-19	5500
+\dane\AudiA4.jpg	Audi	A4	2021	15000	110000	Walter	White	123456789	111000	Tomasz	2024-01-19	1000
+\dane\HyundaiSonata.jpg	Hyundai	Sonata	2020	25000	70000	Janusz	Szypko	345346346	79000	Bartek	2024-01-19	9000
+\dane\ChevroletMalibu.jpg	Chevrolet	Malibu	2015	60000	83000	Andrzej	Duda	123456789	91000	Tomasz	2024-01-19	8000
